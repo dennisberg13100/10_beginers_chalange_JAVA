@@ -10,4 +10,3 @@
 1. Create a program that generates a multiplication table for a given number.
 1. Write a program that calculates the area and perimeter of a rectangle.
 1. Create a program that simulates a coin toss and outputs whether it landed on heads or tails.
-1. Create a program that asks the user for their name and then greets them.
