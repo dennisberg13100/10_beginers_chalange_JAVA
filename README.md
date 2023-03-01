@@ -1,4 +1,4 @@
-# 10 beginers chalange JAVAPrint "Hello, World!" to the console.
+# 10 beginers chalange JAVA
 
 1. Print "Hello, World!" to the console.
 1. Create a program that asks the user for their name and then greets them.
